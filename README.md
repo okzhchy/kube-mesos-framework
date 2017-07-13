@@ -1,5 +1,3 @@
-test2
-
 # Kubernetes-Mesos
 
 ![build](https://travis-ci.org/kubernetes-incubator/kube-mesos-framework.svg?branch=master)
